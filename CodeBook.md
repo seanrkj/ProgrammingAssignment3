@@ -11,14 +11,25 @@ The code follows the five given steps:
 Variables
 
 features - contains data from the downloaded files.
+
 activityType  - contains data from the downloaded files.
+
 SubTrain  - contains data from the downloaded files.
+
 X_Train  - contains data from the downloaded files.
+
 Y_Train  - contains data from the downloaded files.
+
+
+
 TrainData  - contains combined train data.
 
 SubTest - contains data from the downloaded files.
+
 X_Test - contains data from the downloaded files.
+
 Y_Test - contains data from the downloaded files.
+
 TestData - contains combined test data.
+
 FinalData - contains all data
