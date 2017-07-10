@@ -12,10 +12,7 @@
 # 4. Label the data set. 
 
 # 5. Create a tidy data set.
-##########################################################################################################
-
-
-
+##############
 
 # Read the data from files
 features = read.table('./features.txt',header=FALSE); 
