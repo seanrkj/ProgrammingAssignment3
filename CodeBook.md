@@ -1,4 +1,4 @@
-##Introduction:
+Introduction:
 
 The code follows the five given steps:
 
@@ -8,9 +8,9 @@ The code follows the five given steps:
 4. Appropriately labels the data set with descriptive variable names.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-##Variables
+Variables
 
-#features - contains data from the downloaded files.
+features - contains data from the downloaded files.
 activityType  - contains data from the downloaded files.
 SubTrain  - contains data from the downloaded files.
 X_Train  - contains data from the downloaded files.
